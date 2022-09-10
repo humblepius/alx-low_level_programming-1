@@ -2,7 +2,7 @@
 
 /**
  * main - prints the numbers from 00 to 99
- * Return: Always 0 (success)
+ * Return: prints 0 when code runs successfully.
  */
 int main(void)
 {

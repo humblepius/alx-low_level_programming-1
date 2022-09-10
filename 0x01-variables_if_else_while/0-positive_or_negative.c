@@ -5,7 +5,7 @@
 /**
  * main - assigns a random number to int n everytime
  * its executed, and prints it
- * Return: Always 0 (Success)
+ * Return: prints 0 when code runs successfully.
  *
  */
 int main(void)
