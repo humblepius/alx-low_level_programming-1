@@ -5,7 +5,7 @@
 
 #include "main.h"
 
-// function to print lower case alphabet
+/* function to print lower case alphabet*/
 void print_alphabet(void)
 {
 	char ch;
