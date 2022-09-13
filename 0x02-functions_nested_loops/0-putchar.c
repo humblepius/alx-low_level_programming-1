@@ -2,11 +2,11 @@
  * main -  Write a program that prints _putchar, followed by a new line.
  * Return: 0 on Success
  */
-#include <stdio.h>
+#include "main.h"
 
 int main()
 {
-    printf("_putchar\n");
+    _putchar("_putchar\n");
 
     return 0;
 }
