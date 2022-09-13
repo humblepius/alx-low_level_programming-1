@@ -1,5 +1,6 @@
 /**
  * main -  prints the alphabet, in lowercase, followed by a new line
+ * void print_alphabet(void): function to print lower case alphabet
  * Return: 0 on Success
  */
 
