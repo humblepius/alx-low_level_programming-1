@@ -5,7 +5,9 @@
  */
 #include "main.h"
 
-/* function to print lower case alphabet in 10 lines*/
+/**
+ * print_alphabet_x10 - function to print lower case alphabet in 10 lines
+ */
 void print_alphabet_x10(void)
 {
 	char ch;
